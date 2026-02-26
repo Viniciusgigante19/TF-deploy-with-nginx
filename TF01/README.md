@@ -1,3 +1,7 @@
+# Vinicius Gigante
+# 6324558  
+# Análise e Desenvolvimento de Sistemas
+
 # Servidor de site estatico com Nginx
 
 ## Passos para rodar o App
